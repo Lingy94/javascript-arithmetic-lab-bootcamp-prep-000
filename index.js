@@ -1,3 +1,3 @@
-number = 5 
-
-number += 3
+function add(a,b){
+  a+b
+}
