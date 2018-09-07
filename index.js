@@ -1,28 +1,28 @@
 function add(a,b){
-  return a+b
+  return a+b;
 }
 
 function subtract(b,a){
-  return b-a
+  return b-a;
 }
 
 function multiply(a,b){
-  return a*b
+  return a*b;
 }
 
 function divide(a,b){
-  return a/b
+  return a/b;
 }
 
 function inc(n){
-  let number = n
-  return number++
+  n++;
+  return n;
 }
 
 function dec(n){
-  return n--
+  return n--;
 }
 
 function makeInt(n){
-  parseInt(n)
+  parseInt(n);
 }
